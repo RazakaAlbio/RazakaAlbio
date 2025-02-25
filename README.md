@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Razaqa Albio Kasyfi</h1>
 - 🔭 I’m currently working on **Olivia IoT Competition**
 
-- 🌱 I’m currently learning **Python**
-- #30NitesOfCode:
-  [Check out my progress!](https://www.codedex.io/@Razaqaalbio/30-nites-of-code)  
-  ![@Razaqaalbio #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Razaqaalbio)
-
 - 📫 How to reach me **razakaalbiok@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/razaqa-albio-kasyfi-045202231/](https://www.linkedin.com/in/razaqa-albio-kasyfi-045202231/)
